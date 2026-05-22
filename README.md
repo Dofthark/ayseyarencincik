@@ -8,12 +8,14 @@
 
 ### 🎀 Hakkımda
 
-Çukurova Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasının dinamik yapısını, özellikle web teknolojilerini ve veritabanı yönetimini seviyorum. Sürekli öğrenmeye, kendimi geliştirmeye ve yeni teknolojileri keşfetmeye meraklıyım. 🦄
+Çukurova Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasının dinamik yapısını, özellikle web teknolojilerini ve veritabanı yönetimini çok seviyorum. Sürekli öğrenmeye, kendimi geliştirmeye ve yeni teknolojileri keşfetmeye meraklıyım. 🦄
 
-Takım çalışmasına yatkın, analitik ve problem çözmeyi seven enerjik yapımla, teorik bilgilerimi sektöre taşıyabileceğim o harika **Yaz Stajı** fırsatını arıyorum! 🌸
+Takım çalışmasına yatkın, analitik düşünebilen ve problem çözmeyi seven enerjik bir yapıya sahibim. Sektördeki dinamik süreçlere hızlıca uyum sağlayarak, okulda edindiğim teorik temelleri gerçek dünya projelerinde katma değere dönüştürmeyi ve yer aldığım ekibin başarısına katkıda bulunmayı hedefliyorum. 🌸
 
 - 🎓 **Eğitim:** Çukurova Üniversitesi - Bilgisayar Programcılığı (2024 - Devam)
-- 💼 **Hedef:** Web Geliştirme & SQL Veritabanı yönetiminde parlamak.
+- 💼 **Hedef:** Web Geliştirme & SQL Veritabanı yönetiminde kendimi geliştirmek.
+
+
 
 ---
 
