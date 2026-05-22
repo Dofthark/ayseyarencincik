@@ -8,7 +8,7 @@
 
 ### 🎀 Hakkımda
 
-Çukurova Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasının dinamik yapısını, özellikle web teknolojilerini ve veritabanı yönetimini çok seviyorum. Sürekli öğrenmeye, kendimi geliştirmeye ve yeni teknolojileri keşfetmeye meraklıyım. 🦄
+Çukurova Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasının dinamik yapısını, özellikle web teknolojilerini ve veritabanı yönetimini seviyorum. Sürekli öğrenmeye, kendimi geliştirmeye ve yeni teknolojileri keşfetmeye meraklıyım. 🦄
 
 Takım çalışmasına yatkın, analitik ve problem çözmeyi seven enerjik yapımla, teorik bilgilerimi sektöre taşıyabileceğim o harika **Yaz Stajı** fırsatını arıyorum! 🌸
 
@@ -42,6 +42,7 @@ Takım çalışmasına yatkın, analitik ve problem çözmeyi seven enerjik yap�
 
 Gelişime açık projeler, staj imkanları veya sadece sektörel sohbetler için bana aşağıdaki kanallardan ulaşabilirsiniz:
 
+ 
 - 💼 **LinkedIn:** [linkedin.com/in/yarencincik](https://linkedin.com/in/yarencincik)
 - 📧 **E-posta:** [ayseyarencincik@gmail.com](mailto:ayseyarencincik@gmail.com)
 
