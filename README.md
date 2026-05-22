@@ -1,42 +1,44 @@
-# Merhaba, Ben Yaren Çinçik! 👋
+# <p align="center">🔮 ✨ Merhaba, Ben Yaren Çinçik! ✨ 🔮</p>
 
-Çukurova Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasına duyduğum heyecanla, sürekli öğrenmeyi ve kendimi güncel teknolojilerle geliştirmeyi hedefleyen bir yazılım geliştirici adayıyım. 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-Takım çalışmasına yatkın, analitik düşünebilen ve problem çözmeyi seven bir yapım var. Şu an teorik bilgilerimi sektörel deneyime dönüştürebileceğim bir **Yaz Stajı** fırsatı arıyorum.
+---
+
+### 🎀 Hakkımda
+
+Çukurova Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım dünyasının dinamik yapısını, özellikle web teknolojilerini ve veritabanı yönetimini çok seviyorum. Sürekli öğrenmeye, kendimi geliştirmeye ve yeni teknolojileri keşfetmeye meraklıyım. 🦄
+
+Takım çalışmasına yatkın, analitik ve problem çözmeyi seven enerjik yapımla, teorik bilgilerimi sektöre taşıyabileceğim o harika **Yaz Stajı** fırsatını arıyorum! 🌸
 
 - 🎓 **Eğitim:** Çukurova Üniversitesi - Bilgisayar Programcılığı (2024 - Devam)
-- 💼 **Hedef:** Web Geliştirme ve Veritabanı Yönetimi alanlarında uzmanlaşmak, nitelikli projelerde yer almak.
+- 💼 **Hedef:** Web Geliştirme & SQL Veritabanı yönetiminde parlamak.
 
 ---
 
-### 🚀 Yetenek Setim & Kullandığım Teknolojiler
+### 🔮 Yetenek Setim & Neon Teknolojiler
 
-#### 💻 Programlama Dilleri & Web Geliştirme
+#### 💻 Front-End & Programlama
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/C%23-ff1493?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-ff007f?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-da70d6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-#### 🗄️ Veritabanı Yönetimi
+#### 🗄️ Back-End & Veritabanı
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL"/>
-  <img src="https://img.shields.io/badge/MS_Access-BA141A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access"/>
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayseyarencincik&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Yaren's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseyarencincik&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180px"/>
+  <img src="https://img.shields.io/badge/SQL_Server-ff1493?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL"/>
+  <img src="https://img.shields.io/badge/MS_Access-ff69b4?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access"/>
 </p>
 
 ---
 
-### 🤝 Benimle İletişime Geçin
+### 📊 İstatistiklerim
+
+<p align="center">
+  <img src="
 
 Gelişime açık projeler, staj imkanları veya sadece sektörel sohbetler için bana aşağıdaki kanallardan ulaşabilirsiniz:
 
